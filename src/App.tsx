@@ -5,7 +5,7 @@ import './index.css';
 
 function App() {
   return (
-    <main className="bg-[#D9F4FF] flex flex-col w-[319px] h-[500px] max-w-4xl ">
+    <main className="bg-[#D9F4FF] flex flex-col w-auto h-[500px] max-w-4xl ">
       <Header />
     </main>
   );
